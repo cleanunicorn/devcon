@@ -5,7 +5,7 @@
 1. Download these exercises. `git clone https://github.com/trailofbits/devcon`
 2. Install [Manticore](https://github.com/trailofbits/manticore). `pip3 install manticore --user` or `docker pull trailofbits/manticore`
 
-Manticore [0.2.2 is](https://github.com/trailofbits/manticore/releases/tag/0.2.2) recommended.
+Manticore [0.2.2](https://github.com/trailofbits/manticore/releases/tag/0.2.2) is recommended (0.2.2 release is planned for October 30).
 
 ### Course content
 
